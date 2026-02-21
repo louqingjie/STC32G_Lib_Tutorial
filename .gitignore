@@ -1,0 +1,12 @@
+/Project/mdk/out_file/
+
+*.obj
+*.lst
+*.map
+*.hex
+*.bak
+
+*.uvopt
+*.uvoptx
+
+*.log
